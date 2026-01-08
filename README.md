@@ -1,16 +1,89 @@
-# React + Vite
+  ---
+  # Kohinur Fatema - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  ![Portfolio Preview](./screenshot.png)
 
-Currently, two official plugins are available:
+  A modern, responsive portfolio website showcasing my projects, skills, and experience as a Full Stack Web Developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  ## 🔗 Live Demo
 
-## React Compiler
+  [View Portfolio](https://your-portfolio-url.com)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  ## ✨ Features
 
-## Expanding the ESLint configuration
+  - Responsive design (Mobile, Tablet, Desktop)
+  - Smooth scrolling navigation
+  - Project showcase with live demo links
+  - Skills section with technology icons
+  - Contact form integration
+  - Clean and modern UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  ## 🛠️ Built With
+
+  - **React** - Frontend framework
+  - **Vite** - Build tool
+  - **Tailwind CSS** - Styling
+  - **React Icons** - Icon library
+  - **Framer Motion** - Animations (if used)
+
+  ## 📸 Screenshots
+
+  ### Home Section
+  ![Home](./screenshots/home.png)
+
+  ### Projects Section
+  ![Projects](./screenshots/projects.png)
+
+  ## 🚀 Getting Started
+
+  ### Prerequisites
+
+  - Node.js (v18 or higher)
+  - npm or yarn
+
+  ### Installation
+
+  1. Clone the repository
+     ```bash
+     git clone https://github.com/kohinurfatema/MY-PORTFOLIO.git
+
+  2. Navigate to the project directory
+  cd MY-PORTFOLIO
+  3. Install dependencies
+  npm install
+  4. Start the development server
+  npm run dev
+  5. Open http://localhost:5173 in your browser
+
+  📁 Project Structure
+
+  MY-PORTFOLIO/
+  ├── public/
+  ├── src/
+  │   ├── assets/
+  │   ├── components/
+  │   │   ├── Navbar.jsx
+  │   │   ├── Hero.jsx
+  │   │   ├── About.jsx
+  │   │   ├── Skills.jsx
+  │   │   ├── Projects.jsx
+  │   │   └── Contact.jsx
+  │   ├── App.jsx
+  │   └── main.jsx
+  ├── index.html
+  └── package.json
+
+  📫 Connect With Me
+
+  - LinkedIn: https://www.linkedin.com/in/your-linkedin
+  - GitHub: https://github.com/kohinurfatema
+  - Email: your-email@example.com
+
+  📝 License
+
+  This project is open source and available under the LICENSE.
+
+  ---
+  ⭐ If you like this portfolio, give it a star!
+
+  ---
